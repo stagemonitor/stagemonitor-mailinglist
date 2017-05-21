@@ -2,7 +2,7 @@
 
 ## [View Threads](https://github.com/stagemonitor/stagemonitor-mailinglist/issues)
 
-##[New Thread](https://github.com/stagemonitor/stagemonitor-mailinglist/issues/new)
+## [New Thread](https://github.com/stagemonitor/stagemonitor-mailinglist/issues/new)
 Note: don't close your threads so that they are not "hidden" and other people with simmilar questions can more easily find your thread.
 
 ## Why no 'real' mailing list?
